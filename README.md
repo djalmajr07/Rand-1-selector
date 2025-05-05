@@ -94,5 +94,7 @@ View Selected (JSON): GET http://127.0.0.1:5000/api/selected/YOUR_UNIQUE_BATCH_I
 Download Selected (Excel): GET http://127.0.0.1:5000/api/selected/YOUR_UNIQUE_BATCH_ID/excel (This will trigger a file download)
 
 (Replace YOUR_UNIQUE_BATCH_ID with the actual ID used when running main.py)
+```
 
-Next Steps
+### 2. Basic Workflow
+![image](https://github.com/user-attachments/assets/2083351c-adb1-4bd2-a092-bce3b7cfc5e3)
